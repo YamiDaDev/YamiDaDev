@@ -1,4 +1,4 @@
-loadstring(
+loadstring(HttpGet:
 - 🤙 Wsg, I’m Yami.
 - 📌 I’m interested in these stuffs:
       -- Roblox Studio [Programmer/Builder]
@@ -24,5 +24,6 @@ loadstring(
 - ⚡ Fun fact:
       -- idk what to fill here so ye, i like to play sports irl or
          even in roblox.
+  
 end
     )()
